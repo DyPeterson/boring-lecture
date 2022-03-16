@@ -1,14 +1,14 @@
-h2.intro {
+.bold {
   font-weight: bold;
 } 
 
-p.intro {
+.font {
   font-family: Courier;
 }
 
-img.intro {
+.img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 50%
 }
